@@ -1,0 +1,13 @@
+{
+  "name": "Buy N Hold",
+  "symbol": "BNH",
+  "description": "Buy and hold it for exactly one year to the day. Don’t be greedy — buy for just one dollar.",
+  "image": "https://github.com/Zoshasergei/BNH/",
+  "external_url": "https://raw.githubusercontent.com/Zoshasergei/BNH/refs/heads/main/73FW%20(1).gif",
+  "attributes": [],
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Zoshasergei/BNH/refs/heads/main/73FW%20(1).gif", "type": "image/gif" }
+    ]
+  }
+}
